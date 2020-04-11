@@ -1,2 +1,4 @@
+这是一个Magisk模块
+
 把包名是com.supercell.clashofclans的apk扔到system下
 然后你就装不了coc啦噜噜噜
